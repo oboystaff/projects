@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "604969794369",
+    "firebase_url": "https://e-soor-29d6c.firebaseio.com",
+    "project_id": "e-soor-29d6c",
+    "storage_bucket": "e-soor-29d6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604969794369:android:035431aa166251e5a9bfc0",
+        "android_client_info": {
+          "package_name": "com.example.e_soor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604969794369-07hqe5l53tfihnanve2ok4931ctdou55.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_soor",
+            "certificate_hash": "b27e3b8a38a45261a53565d5489ba19942e6137c"
+          }
+        },
+        {
+          "client_id": "604969794369-j56atnpe51f3u9439li1o12fglcumull.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuYx364S6c7pt5vtKm8MyIC3jJe98HJpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604969794369-j56atnpe51f3u9439li1o12fglcumull.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "604969794369-14nrhvj8j0oo329krb7m2i45blrn5nbj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eSoor.eSoor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
